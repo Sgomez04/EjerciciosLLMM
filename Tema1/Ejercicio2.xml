@@ -1,7 +1,7 @@
-<Libros>
+<Biblioteca>
+  <Libro>
 <Titulos>
-1º - La espada del destino
-2º - El último deseo
+La espada del destino
 </Titulos>
 
 <Saga>
@@ -21,8 +21,8 @@ Polonia
 </Pais>
 
 <Paginas>
-1º - 254
-2º - 174
+254
+
 </Paginas>
 
 <IdiomaOriginal>
@@ -34,7 +34,46 @@ Español
 </idioma>
 
 <FechaPublicacion>
-1º - Año 1992
-2º - Año 1993
+Año 1992
+
 </FechaPublicacion>
-</Libros>
+</Libro>
+  
+<Libro>
+<Titulos>
+El último deseo
+</Titulos>
+
+<Saga>
+Saga de Gerant of Rivia
+</Saga>
+
+<Autor>
+Andrzej Sapkowski
+</Autor>
+
+<Genero>
+Literatura fantástica
+</Genero>
+
+<Pais>
+Polonia
+</Pais>
+
+<Paginas>
+174
+</Paginas>
+
+<IdiomaOriginal>
+Polaco
+</IdiomaOriginal>
+
+<idioma>
+Español
+</idioma>
+
+<FechaPublicacion>
+Año 1993
+</FechaPublicacion>
+</Libro>
+</Biblioteca>
