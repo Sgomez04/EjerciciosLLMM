@@ -14,7 +14,7 @@ This is my first github proyect!
   [] Artículo 2b
   
 ##### IMÁGENES
-![pc logo](/22831.png)
+![pc logo](/Tema1/22831.png)
 Format: ![Alt Text](url)
 
 ###### TABLAS
