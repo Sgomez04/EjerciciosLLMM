@@ -1,42 +1,44 @@
-<Biblioteca>
-  <Libro>
-<Titulo>
+<?xml version="1.0" encoding="UTF-8?>
+<!DOCTYPE biblioteca >
+<biblioteca>
+  <libro>
+<titulo>
 La espada del destino
-</Titulo>
+</titulo>
 
-<Saga>
+<saga>
 Saga de Gerant of Rivia
-</Saga>
+</saga>
 
-<Autor>
+<autor>
 Andrzej Sapkowski
-</Autor>
+</autor>
 
-<Genero>
+<genero>
 Literatura fantástica
-</Genero>
+</gnero>
 
-<Pais>
+<pais>
 Polonia
-</Pais>
-
-<Pagina>
+    </pais>
+    
+<pagina>
 254
-</Pagina>
+    </pagina>
 
-<IdiomaOriginal>
+<idiomaoriginal>
 Polaco
-</IdiomaOriginal>
+</idiomaoriginal>
 
 <idioma>
 Español
 </idioma>
 
-<FechaPublicacion>
+<fechaPublicacion>
 Año 1992
 
-</FechaPublicacion>
-</Libro>
+</fechaPublicacion>
+  </libro>
   
 <Libro>
 <Titulo>
@@ -71,8 +73,8 @@ Polaco
 Español
 </idioma>
 
-<FechaPublicacion>
+<fechaPublicacion>
 Año 1993
-</FechaPublicacion>
-</Libro>
-</Biblioteca>
+</fechaPublicacion>
+  </libro>
+</biblioteca>
