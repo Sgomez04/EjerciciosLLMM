@@ -15,7 +15,7 @@ Ejercicio 4 | Ejemplo de lenguaje MarkDown: [Ejercicio4!](/Tema1/Ejercicio4.md )
 
 Ejercicios  | Enlaces
 ----------- | -----------
-Ejercicio 1 | Realizacion de ejemplo de pagina web mediante HTML: [Ejercicio1!](/Tema2/HTMLClassexercises/Ejercicio1.html )
+Ejercicio 1 | Realizacion de ejemplo de pagina web mediante HTML: [Ejercicio1!](/Tema2/HTMLClassExercises/ Ejercicio1.html )
 Ejercicio 2 | Realizacion de un archivo XML basado en 2 libros:[Ejercicio2!](/Tema 2/HTML Class exercises/Ejercicio2.html )
 Ejercicio 3 | Información de SVG y ejemplo: [Ejercicio3!](/Tema 2/HTMLClass exercises/Ejercicio3.html )
 Ejercicio 4 | Ejemplo de lenguaje MarkDown: [Ejercicio4!](/Tema 2/HTMLClass exercises/Ejercicio4.html )
