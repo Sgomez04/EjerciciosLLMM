@@ -14,7 +14,7 @@ Nam vel neque. Proin sagittis mauris sit amet nisl. Sed ipsum. Aliquam vitae jus
 <p>Etiam consectetuer, mauris vitae cursus scelerisque, dui turpis dignissim justo, 
 et euismod enim odio sit amet erat. Aliquam dui ligula, porttitor eu, facilisis vitae, ornare sed, tortor.</p>
 
-<p><a href="portfolio/indice.html"> Acceder a los ultimos proyectos de Mi Sitio</a></p>
+<p><a href="Documentos/Indice.html"> Acceder a los ultimos proyectos de Mi Sitio</a></p>
 
 </body>
 </html>
