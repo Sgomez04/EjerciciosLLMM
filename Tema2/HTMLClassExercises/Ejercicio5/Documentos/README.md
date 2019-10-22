@@ -12,14 +12,11 @@
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec iaculis posuere justo. Nam vel neque.</p>
 
 <h3>Proyecto 1</h3>
-<p>Etiam consectetuer, mauris vitae cursus scelerisque, dui turpis dignissim justo, et euismod enim odio sit amet erat.</p>
-<p><a href="../imagenes/proyecto1.png" title="Roma 1">Ver imagen del Proyecto 1</a></p>
+<p><a href="../Documentos/Proyecto1.png" title="Roma 1">Ver imagen del Proyecto 1</a></p>
 
 <h3>Proyecto 2</h3>
-<p>Etiam consectetuer, mauris vitae cursus scelerisque, dui turpis dignissim justo, et euismod enim odio sit amet erat.</p>
-<p><a href="../imagenes/proyecto2.png" title="Roma 2">Ver imagen del Proyecto 2</a></p>
+<p><a href="../Documentos/Proyecto2.png" title="Roma 2">Ver imagen del Proyecto 2</a></p>
 
 </body>
 
-</html>
 </html>
