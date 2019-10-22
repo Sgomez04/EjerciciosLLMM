@@ -1,24 +1,20 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 
 <head>
-<title>Mi Sitio</title>
+<title>Mi sitio</title>
 </head>
 
 <body>
 
-<p><a href="../indice.html" title="Página principal de Mi Sitio">Volver a la pagina principal</a></p>
+<h1> Mi Sitio </h1>
+<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec iaculis posuere justo. 
+Nam vel neque. Proin sagittis mauris sit amet nisl. Sed ipsum. Aliquam vitae justo.</p>
 
-<h1>Ultimos proyectos</h1>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec iaculis posuere justo. Nam vel neque.</p>
+<h2>Ultimos proyectos</h2>
+<p>Etiam consectetuer, mauris vitae cursus scelerisque, dui turpis dignissim justo, 
+et euismod enim odio sit amet erat. Aliquam dui ligula, porttitor eu, facilisis vitae, ornare sed, tortor.</p>
 
-<h3>Proyecto 1</h3>
-<p>Etiam consectetuer, mauris vitae cursus scelerisque, dui turpis dignissim justo, et euismod enim odio sit amet erat.</p>
-<p><a href="../imagenes/proyecto1.png" title="Roma 1">Ver imagen del Proyecto 1</a></p>
-
-<h3>Proyecto 2</h3>
-<p>Etiam consectetuer, mauris vitae cursus scelerisque, dui turpis dignissim justo, et euismod enim odio sit amet erat.</p>
-<p><a href="../imagenes/proyecto2.png" title="Roma 2">Ver imagen del Proyecto 2</a></p>
+<p><a href="portfolio/indice.html"> Acceder a los ultimos proyectos de Mi Sitio</a></p>
 
 </body>
-
 </html>
