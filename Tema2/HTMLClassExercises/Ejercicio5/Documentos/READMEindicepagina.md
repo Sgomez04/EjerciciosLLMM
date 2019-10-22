@@ -6,7 +6,7 @@
 
 <body>
 
-<p><a href="../indice.html" title="Página principal de Mi Sitio">Volver a la pagina principal</a></p>
+<p><a href="../ReadmePrincipal.md" title="Página principal de Mi Sitio">Volver a la pagina principal</a></p>
 
 <h1>Ultimos proyectos</h1>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec iaculis posuere justo. Nam vel neque.</p>
