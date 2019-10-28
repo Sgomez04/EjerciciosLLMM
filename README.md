@@ -23,3 +23,4 @@ Ejercicio 4 | Página html que muestra el aspecto indicado en el enunciado: [Eje
 Ejercicio 5 | Ejercicio número 6 de “uniwebsidad” del capítulo 4: [Ejercicio 5!](/Tema2/HTMLClassExercises/Ejercicio5 )
 Ejercicio 6 | Página html como la mostrada en el enunciado: [Ejercicio 6!](/Tema2/HTMLClassExercises/Ejercicio6.html )
 Ejercicio 7 | Página html como la mostrada en el enunciado: [Ejercicio 7!](/Tema2/HTMLClassExercises/Ejercicio7.html )
+Ejercicio 8 | Página html como la mostrada en el enunciado: [Ejercicio 8!](/Tema2/HTMLClassExercises/Ejercicio8.html )
