@@ -22,3 +22,4 @@ Ejercicio 3 | Texto con formato indicado en el enunciado: [Ejercicio 3!](/Tema2/
 Ejercicio 4 | Página html que muestra el aspecto indicado en el enunciado: [Ejercicio 4!](/Tema2/HTMLClassExercises/Ejercicio4.html )
 Ejercicio 5 | Ejercicio número 6 de “uniwebsidad” del capítulo 4: [Ejercicio 5!](/Tema2/HTMLClassExercises/Ejercicio5 )
 Ejercicio 6 | Página html como la mostrada en el enunciado: [Ejercicio 6!](/Tema2/HTMLClassExercises/Ejercicio6.html )
+Ejercicio 7 | Página html como la mostrada en el enunciado: [Ejercicio 7!](/Tema2/HTMLClassExercises/Ejercicio7.html )
