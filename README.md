@@ -24,3 +24,4 @@ Ejercicio 5 | Ejercicio número 6 de “uniwebsidad” del capítulo 4: [Ejercic
 Ejercicio 6 | Página html como la mostrada en el enunciado: [Ejercicio 6!](/Tema2/HTMLClassExercises/Ejercicio6.html )
 Ejercicio 7 | Página html como la mostrada en el enunciado: [Ejercicio 7!](/Tema2/HTMLClassExercises/Ejercicio7.html )
 Ejercicio 8 | Página html como la mostrada en el enunciado: [Ejercicio 8!](/Tema2/HTMLClassExercises/Ejercicio8.html )
+Ejercicio 9 | Página html realizada siguiendo las instrucciones del enunciado: [Ejercicio 9!](/Tema2/HTMLClassExercises/Ejercicio9.html )
