@@ -1,13 +1,7 @@
  <!DOCTYPE html>
 <html>
 <head>
-  <style>
-h1 {border: 1px solid red}
-#P1 {border: 1px solid black;margin: 0px; padding: 50px}
-#P2 {border: 1px solid black;margin: 30px; padding: 0px;}
-#P3 {border: 1px solid black;margin: 50px; padding: 30px;}
-#P4 {border: 1px solid black;margin: 30px; padding: 50px;}
-  </style>
+  <link rel = "stylesheet" href= "/Ejercicio11/estilo.css">
 </head>
 <body>
 
