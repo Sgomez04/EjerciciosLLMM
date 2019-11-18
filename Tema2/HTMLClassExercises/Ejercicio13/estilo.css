@@ -2,7 +2,6 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 90%;
-  
 }
 
 td, th {
@@ -13,4 +12,7 @@ td, th {
 }
 #detalles {
 font-size: 40px;
+}
+.senal {
+  background-color: #dddddd;
 }
