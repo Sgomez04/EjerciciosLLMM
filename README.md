@@ -29,3 +29,5 @@ Ejercicio 10 | Página html realizada siguiendo las instrucciones del enunciado:
 Ejercicio 11 | Página html realizada siguiendo las instrucciones del enunciado: [Ejercicio 11!](/Tema2/HTMLClassExercises/Ejercicio11/Ejercicio11.html )
 Ejercicio 12 | Página html realizada siguiendo la imagen: [Ejercicio 12!](/Tema2/HTMLClassExercises/Ejercicio12/Ejercicio12.html )
 Ejercicio 13 | Página html realizada según lo indicado: [Ejercicio 13!](/Tema2/HTMLClassExercises/Ejercicio13/Ejercicio13.html )
+Ejercicio 14 | Página html realizada según lo indicado: [Ejercicio 14!](/Tema2/HTMLClassExercises/Ejercicio13/Ejercicio14.html )
+Ejercicio 15 | Página html realizada según lo indicado: [Ejercicio 15!](/Tema2/HTMLClassExercises/Ejercicio13/Ejercicio15.html )
