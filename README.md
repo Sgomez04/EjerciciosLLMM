@@ -31,3 +31,6 @@ Ejercicio 12 | Página html realizada siguiendo la imagen: [Ejercicio 12!](/Tema
 Ejercicio 13 | Página html realizada según lo indicado: [Ejercicio 13!](/Tema2/HTMLClassExercises/Ejercicio13/Ejercicio13.html )
 Ejercicio 14 | Página html realizada según lo indicado: [Ejercicio 14!](/Tema2/HTMLClassExercises/Ejercicio14/Ejercicio14.html )
 Ejercicio 15 | Página html realizada según lo indicado: [Ejercicio 15!](/Tema2/HTMLClassExercises/Ejercicio15/Ejercicio15.html )
+Ejercicio 16 | Página html realizada según lo indicado: [Ejercicio 16!](/Tema2/HTMLClassExercises/Ejercicio15/Ejercicio16.html )
+Ejercicio 17 | Página html realizada según lo indicado: [Ejercicio 17!](/Tema2/HTMLClassExercises/Ejercicio15/Ejercicio17.html )
+Ejercicio 18 | Página html realizada según lo indicado: [Ejercicio 18!](/Tema2/HTMLClassExercises/Ejercicio15/Ejercicio18.html )
