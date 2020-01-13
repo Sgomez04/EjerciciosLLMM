@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Rellena tu CV</h2>
+
+<form action="/action_page.php" method="post">
+  First name:<br>
+  <input type="text" name="Nombre" min="0" maxlength = "30" placeholder="Nombre">
+  <br>
+  Last name:<br>
+  <input type="text" name="Apellido" min="0" maxlength="80" placeholder="Apellidos">
+  <br>
+  Password:<br>
+  <input type="password" name="Contraseña" min="0" maxlength="10" placeholder="Nueva Contraseña">
+  <br>
+  DNI:<br>
+  <input type="text" name="DNI"> 
+  <br>
+ 
+  Sex:<br>
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <br><br>
+  Incluir mi foto <input type="text" name="Elegir"> <input type="file" name="myFile"><br><br>
+  <input type="checkbox" name="Suscripcion" checked> Suscribirme al boletin de novedades
+<br><br>
+  <br>
+ <input type="submit" onclick="alert('Los cambios han sido guardados correctamente')" value="Guardar cambios">
+ <input type="reset" value = "Borrar los datos introducidos">
+</form> 
+
+
+</body>
+</html>
