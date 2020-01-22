@@ -7,7 +7,16 @@
 <fieldset>
     <legend>Datos personales:</legend>
     Provincia:<br>
-    <input type="text" name="firstname" value="Mickey">
+    <input list="browsers" name="browsers">
+	<datalist id="province">
+  <option value="Huelva">
+  <option value="Sevilla">
+  <option value="Cadiz">
+  <option value="Malaga">
+  <option value="Cordoba">
+  <option value="Almeria">
+  <option value="Jaen">
+</datalist>
     <br>
     Fecha de nacimiento:<br>
     <input type="text" name="lastname" value="Mouse">
@@ -15,13 +24,9 @@
     <input type="submit" value="Submit">
   </fieldset>
 <form action="/action_page.php" method="post">
-  Provincia:<br>
-  <input type="text" name="Nombre" min="0" maxlength = "30" placeholder="Nombre">
-  <br>
- 
+
 </form> 
 
 
 </body>
 </html>
-
