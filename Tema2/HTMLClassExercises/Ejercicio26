@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+function myFunction() {
+  var web;
+    web = "https://uniwebsidad.com/libros/xhtml"
+    document.getElementById('myIFrame').src = web;
+}
+</script>
+
+<iframe id="myIFrame" src="https://uniwebsidad.com/libros/xhtml/capitulo-1/html-y-css" height="600" width="800"></iframe>
+<p>
+<button type="button" onclick="myFunction()">Cambia!</button>
+</p>
+
+</body>
+</html>
