@@ -40,3 +40,8 @@ Ejercicio 21 | Página html realizada según lo indicado: [Ejercicio 21!](/Tema2
 Ejercicio 22 | Página html realizada según lo indicado: [Ejercicio 22!](/Tema2/HTMLClassExercises/Ejercicio22/index.html )
 Ejercicio 23 | Página html realizada según lo indicado: [Ejercicio 23!](/Tema2/HTMLClassExercises/Ejercicio23.html )
 Ejercicio 26 | Página html realizada según lo indicado: [Ejercicio 23!](/Tema2/HTMLClassExercises/Ejercicio26.html )
+
+### CSS Class Exercises
+Ejercicios  | Enlaces
+----------- | -----------
+Ejercicio 1 | Curriculum Vitae: [Ejercicio 1!](/Tema2/CSSClassExercises/Ejercicio1.html )
