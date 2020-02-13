@@ -1,92 +1,112 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Classic Horror Authors - Edgar Allan Poe</title>
-<style type="text/css">
-	.cabezera{
-		background-color: #990000;
-		font-family: Arial;
-		font-size: 90%;
-		width: 779px;
-		color: white;
-	}
-	.navegar{
-		background-color: #CCCCCC;
-		font-family: Arial;
-		font-size: 90%;
-		width: 779px;
-	}
-	div{
-		margin-top: 6px;
-		padding: 6px;
-		border: 1px;
-	}
-	body{
-		background-color: #666666;
-		font-family: Helvetica
-		font-size 90%;
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-	}
-	.footer{
-		background-color: #CCCCCC;
-		width: 779px;
-		text-align: center;
-		clear: left;
-	}
-	.rightpanel{
-		background-color: #999999;
-		width: 295px;
-		margin-left: 484px;
-	}
-	.content{
-		background-color: #999999;
-		width: 464px;
-		margin-bottom: 6px;
-		float: left;
+body {
+  margin: 0;
+}
 
-	}
-	img{
-		float: left;
-	}
+.center  {
+  margin: auto;
+  width: 90%;
+  border: 1px solid black;
+  overflow: auto;  
+}
+
+/* Style the header */
+.header {
+  color: blue;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+}
+
+.sectionheader {
+  text-align: left;
+  padding: 10px;
+  color: darkred;
+}
+
+.data {
+  text-align: left;
+  padding: 10px;
+}
+
+
+/* Create three unequal columns that floats next to each other */
+.column1 {
+  float: left;
+  padding: 10px;
+  width: 30%;
+  font-weight: bold;  
+}
+
+.column2 {
+  float: left;
+  padding: 10px;
+  width: 70%;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column1, column2  {
+	width: 100%;
+  }
+}
 </style>
 </head>
-
 <body>
-
-<div class="cabezera">
-Classic Horror Authors - Edgar Allan Poe
+<div class="center">
+  <div class="header">
+     	 <h1>CURRICULUM</h1>
+    	<h1>VITAE</h1>
+  </div>
+  <div class="sectionheader">
+     	 <h1>PERSONAL DATA</h1>
+  </div>
+  <div class="data">
+     	 <p>Name: </p>
+     	 <p>Surname: </p>   	 
+     	 <p>Date of Birth: </p>   	 
+  </div>
+  <div class="sectionheader">
+     	 <h1>EDUCATION</h1>
+  </div>  
+  <div class="column1">
+	<p>2017-2019</p>
+  </div>
+  <div class="column2">
+	<p>ASIR (La Marisma)</p>
+  </div>
+  <div class="column1">
+	<p>2015-2017</p>
+  </div>
+  <div class="column2">
+	<p>Bachillerato (La Marisma)</p>
+  </div>
+  <div class="sectionheader">
+     	 <h1>EDUCATION</h1>
+  </div>
+  <div class="column1">
+	<p>2017-2019</p>
+  </div>
+  <div class="column2">
+	<p>Técnico informático (IT Systems)</p>
+  </div>
+  <div class="column1">
+	<p>2015-2017</p>
+  </div>
+  <div class="column2">
+	<p>Asistente técnico (Bell)</p>
+  </div>  
 </div>
-
-
-<div class="navegar">
-Edgar Allan Poe | Mary Shelley | Bram Stoker
-</div>
-<div class="content">
-	<img src="foto.gif">
-Edgar Allan Poe: Best known for his poems and short fiction, Edgar Allan Poe, born in Boston, Jan. 19, 1809, died Oct. 7, 1849 in Baltimore, deserves more credit than any other writer for the transformation of the short story from anecdote to art. He virtually created the detective story and perfected the psychological thriller. He also produced some of the most influential literary criticism of his time -- important theoretical statements on poetry and the short story -- and has had a worldwide influence on literature. 
-
-He was born as Edgar Poe in Boston, Massachusetts; his parents died when he was young. Poe was taken in by John and Frances Allan, of Richmond, Virginia, but they never formally adopted him. After spending a short period at the University of Virginia and briefly attempting a military career, Poe parted ways with the Allans. Poe's publishing career began humbly, with an anonymous collection of poems, Tamerlane and Other Poems (1827), credited only to "a Bostonian".</div>
-
-
-<div class="rightpanel">
-Stories by Poe
-
-A Descent Into The Maelstrom (1841)
-The Black Cat (1843)
-The Tell-Tale Heart (1843)
-The Cask Of Amontillado (1846)
-Bon-Bon (1850)
-
-Comments / Suggestions
-
-We want to hear from you! If you have any comments or suggestions on things you'd like to see on the site please let us know.
-</div>
-
-<div class="footer">
-copyright 2009 a classic horror authors website
-</div>
-
 </body>
 </html>
