@@ -45,4 +45,4 @@ Ejercicio 26 | Página html realizada según lo indicado: [Ejercicio 23!](/Tema2
 Ejercicios  | Enlaces
 ----------- | -----------
 Ejercicio 1 | Curriculum Vitae: [Ejercicio 1!](/Tema2/CSSClassExercises/Ejercicio1.html )
-Ejercicio 1 | Curriculum Vitae: [Ejercicio 1!](/Tema2/CSSClassExercises/Ejercicio2/Ejercicio2.html )
+Ejercicio 2 | Curriculum Vitae: [Ejercicio 2!](/Tema2/CSSClassExercises/Ejercicio2/Ejercicio2.html )
