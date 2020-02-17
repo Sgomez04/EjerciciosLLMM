@@ -46,4 +46,4 @@ Ejercicios  | Enlaces
 ----------- | -----------
 Ejercicio 1 | Curriculum Vitae: [Ejercicio 1!](/Tema2/CSSClassExercises/Ejercicio1.html )
 Ejercicio 2 | Curriculum Vitae: [Ejercicio 2!](/Tema2/CSSClassExercises/Ejercicio2/Ejercicio2.html )
-Ejercicio 3 | Curriculum Vitae: [Ejercicio 2!](/Tema2/CSSClassExercises/Ejercicio3.html )
+Ejercicio 3 | Curriculum Vitae: [Ejercicio 3!](/Tema2/CSSClassExercises/Ejercicio3.html )
