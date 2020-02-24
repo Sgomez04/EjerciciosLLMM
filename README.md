@@ -47,5 +47,5 @@ Ejercicios  | Enlaces
 Ejercicio 1 | Curriculum Vitae: [Ejercicio 1!](/Tema2/CSSClassExercises/Ejercicio1.html )
 Ejercicio 2 | Ejercicio CSS: [Ejercicio 2!](/Tema2/CSSClassExercises/Ejercicio2/Ejercicio2.html )
 Ejercicio 3 | Ejercicio CSS: [Ejercicio 3!](/Tema2/CSSClassExercises/Ejercicio3.html )
-Ejercicio (Varios 1) | Ejercicio CSS: [Ejercicios Varios!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio1.html )
-Ejercicio (Varios 2) | Ejercicio CSS: [Ejercicios Varios!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio2.html )
+Ejercicio (Varios 1) | Ejercicio CSS: [Ejercicios Varios 1!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio1.html )
+Ejercicio (Varios 2) | Ejercicio CSS: [Ejercicios Varios 2!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio2.html )
