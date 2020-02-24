@@ -45,7 +45,7 @@ Ejercicio 26 | Página html realizada según lo indicado: [Ejercicio 23!](/Tema2
 Ejercicios  | Enlaces
 ----------- | -----------
 Ejercicio 1 | Curriculum Vitae: [Ejercicio 1!](/Tema2/CSSClassExercises/Ejercicio1.html )
-Ejercicio 2 | Curriculum Vitae: [Ejercicio 2!](/Tema2/CSSClassExercises/Ejercicio2/Ejercicio2.html )
-Ejercicio 3 | Curriculum Vitae: [Ejercicio 3!](/Tema2/CSSClassExercises/Ejercicio3.html )
-Ejercicio (Varios 1) | Curriculum Vitae: [Ejercicios Varios!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio1.html )
-Ejercicio (Varios 2) | Curriculum Vitae: [Ejercicios Varios!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio2.html )
+Ejercicio 2 | Ejercicio CSS: [Ejercicio 2!](/Tema2/CSSClassExercises/Ejercicio2/Ejercicio2.html )
+Ejercicio 3 | Ejercicio CSS: [Ejercicio 3!](/Tema2/CSSClassExercises/Ejercicio3.html )
+Ejercicio (Varios 1) | Ejercicio CSS: [Ejercicios Varios!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio1.html )
+Ejercicio (Varios 2) | Ejercicio CSS: [Ejercicios Varios!](/Tema2/CSSClassExercises/EjerciciosVarios/Ejercicio2.html )
